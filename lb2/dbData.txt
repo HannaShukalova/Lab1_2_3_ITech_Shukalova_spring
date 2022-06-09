@@ -1,0 +1,8 @@
+db.duty.insertMany( [
+   { "shift": "First", "date": "2021-12-20", "nurse": "ivanova", "department": 1, "ward":  1 },
+   { "shift": "First", "date": "2024-12-20", "nurse": "egorova", "department": 4, "ward":  1 },
+   { "shift": "Third", "date": "2022-12-20", "nurse": "petrova", "department": 2, "ward":  1 },
+   { "shift": "First", "date": "2024-12-20", "nurse": "egorova", "department": 4, "ward":  2 },
+   { "shift": "Second", "date": "2023-12-20", "nurse": "sidorova", "department": 3, "ward":  2 },
+   { "shift": "Second", "date": "2023-12-20", "nurse": "sidorova", "department": 3, "ward":  3 }
+]);

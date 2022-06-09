@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nurses>
+  <Nurse>
+    <Name>ivanova</Name>
+    <Department>1</Department>
+  </Nurse>
+  <Nurse>
+    <Name>qq</Name>
+    <Department>1</Department>
+  </Nurse>
+</Nurses>
